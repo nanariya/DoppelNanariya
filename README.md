@@ -3,6 +3,11 @@ DoppelNanariya
 
 （´A'）自分のbotを作るための墓場
 
+開発環境
+==============
+MonoDevelop 3.0.3.5  
+Mono / .NET 3.5
+
 このプログラムのライセンス
 ==============
 	Copyright (c) 2012, Nanariya
