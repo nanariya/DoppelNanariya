@@ -1,0 +1,7 @@
+1. NanaTwitter.cs の ConsumerKey と ConsumerSecret に値を突っ込む。
+		private static string ConsumerKey { get {return "";}}
+		private static string ConsumerSecret { get {return "";}}
+
+2. "DoppelNanariya.exe -n" ってやると新規登録モードになる。
+　 PinCodeの入力とか済ませると、DoppelNanariya.confが出来上がる。
+　・・・予定だったが、RegisterApplication部分をふっ飛ばしてので未実装。

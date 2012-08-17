@@ -59,5 +59,6 @@
   <ItemGroup>
     <None Include="Lib\Newtonsoft.Json.dll" />
     <None Include="Lib\Twitterizer2.dll" />
+    <None Include="HOW_TO_USE.txt" />
   </ItemGroup>
 </Project>
