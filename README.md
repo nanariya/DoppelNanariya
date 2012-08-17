@@ -20,11 +20,11 @@ DoppelNanariya
 ==============
 
 ## Twitterizer2
-使っているもの → Twitterizer2.dll
+使っているもの → Twitterizer2.dll  
 著作権表示 → Copyright (c) 2010, Patrick "Ricky" Smith All rights reserved.  
 ライセンス表示 → DoppelNanariya/DoppelNanariya/Lib/Twitterizer2.license.txt  
 
 ## Json.NET
-使っているもの → Newtonsoft.Json.dll
+使っているもの → Newtonsoft.Json.dll  
 著作権表示 → Copyright (c) 2007 James Newton-King  
 ライセンス表示 → DoppelNanariya/DoppelNanariya/Lib/Json.NET.license.txt  
